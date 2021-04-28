@@ -1,4 +1,4 @@
-# berkeley-cs188
-just doing some of the projects for a class (I don't actually go to Berkeley though)
+# some AI and ML stuff in python
+went through the projects for berkeley cs188 (check it out, it's free https://inst.eecs.berkeley.edu/~cs188/sp21/)
 
-did minimax, negamax, ab-pruning, MDPs, and some other stuff, also learned way more about chess than i wanted to
+did minimax, negamax, ab-pruning, MDPs, and some other stuff, also built a chess engine using some techniques i learned
